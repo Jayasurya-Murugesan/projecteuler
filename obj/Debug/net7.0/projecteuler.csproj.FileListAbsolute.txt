@@ -1,0 +1,15 @@
+E:\Maths\projecteuler\bin\Debug\net7.0\projecteuler.exe
+E:\Maths\projecteuler\bin\Debug\net7.0\projecteuler.deps.json
+E:\Maths\projecteuler\bin\Debug\net7.0\projecteuler.runtimeconfig.json
+E:\Maths\projecteuler\bin\Debug\net7.0\projecteuler.dll
+E:\Maths\projecteuler\bin\Debug\net7.0\projecteuler.pdb
+E:\Maths\projecteuler\obj\Debug\net7.0\projecteuler.csproj.AssemblyReference.cache
+E:\Maths\projecteuler\obj\Debug\net7.0\projecteuler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Maths\projecteuler\obj\Debug\net7.0\projecteuler.AssemblyInfoInputs.cache
+E:\Maths\projecteuler\obj\Debug\net7.0\projecteuler.AssemblyInfo.cs
+E:\Maths\projecteuler\obj\Debug\net7.0\projecteuler.csproj.CoreCompileInputs.cache
+E:\Maths\projecteuler\obj\Debug\net7.0\projecteuler.dll
+E:\Maths\projecteuler\obj\Debug\net7.0\refint\projecteuler.dll
+E:\Maths\projecteuler\obj\Debug\net7.0\projecteuler.pdb
+E:\Maths\projecteuler\obj\Debug\net7.0\projecteuler.genruntimeconfig.cache
+E:\Maths\projecteuler\obj\Debug\net7.0\ref\projecteuler.dll
